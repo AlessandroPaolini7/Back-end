@@ -1,4 +1,4 @@
-# In this exercise, you will practice control flow with loops to solve problems. You will be given a list of integers and you will have to add some code to find a specific number in a list and return it. 
+## In this exercise, you will practice control flow with loops to solve problems. You will be given a list of integers and you will have to add some code to find a specific number in a list and return it. 
 
 ## Instructions
 1.   Under the num_list create a new for loop and print out each value on the list in sequential order.
